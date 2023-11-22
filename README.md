@@ -14,13 +14,15 @@ CredLancer enables organizations to issue tamper-proof credentials to employees 
 The Anonymous Rating Survey system implemented in the project allows employers and freelancers to privately rate each other based on criteria such as quality, communication, and speed, ensuring anonymity and fostering accurate assessments without disclosing individual rating histories.
 
 # Importance of Privacy
-Onboarding or Vetting System
-Secure personal identification verification like passport, license 
-Secure personal documents verification like university degrees (keeping folks undoxxed)  
-Secure location or tax jurisdiction verification documents 
+- Onboarding or Vetting System
+- Secure personal identification verification like passport, license 
+- Secure personal documents verification like university degrees (keeping folks undoxxed)  
+- Secure location or tax jurisdiction verification documents
+  
 Payment System
-Private payments are secured in escrow to ensure each project is backed by funds while not revealing to the entire platform the on-chain record of payment details. SuperLancers should have their earning amounts private. Employees should have specific amount details private to keep their competitive edge when proposing budgets. 
-History of payment shall be revealed to system in order to allow private rating system (only projects & freelancers that have works together can issue rating tokens)  
+- Private payments are secured in escrow to ensure each project is backed by funds while not revealing to the entire platform the on-chain record of payment details. SuperLancers should have their earning amounts private.
+- Employees should have specific amount details private to keep their competitive edge when proposing budgets.
+- History of payment shall be revealed to system in order to allow private rating system (only projects & freelancers that have works together can issue rating tokens)  
 
 # Collaboration System
 Anonymous Rating Tokens, modernized version of anonymous surveys. Their purpose is to ensure accountability and collaboration among the employees and freelancers utilizing the platform for project collaboration.
