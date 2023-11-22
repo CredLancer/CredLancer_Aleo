@@ -27,6 +27,15 @@ Payment System
 # Collaboration System
 Anonymous Rating Tokens, modernized version of anonymous surveys. Their purpose is to ensure accountability and collaboration among the employees and freelancers utilizing the platform for project collaboration.
 
+# Smart Contracts Quickstart
+
+- Clone the repo `git clone https://github.com/CredLancer/CredLancer_Aleo`
+- Navigate to smart contract directory `cd Aleo/aleo_contracts
+/credlancer_rating_survey/`
+- Fill out `.env` variables based on `.env.example`
+- Build the project `leo build`
+
+  The program is currently deployed to testnet3 [here](https://explorer.aleo.org/program/rating_survey_v3.aleo)
 
 # Team Background (Top Contributors)
 
