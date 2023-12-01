@@ -42,12 +42,12 @@ Anonymous Rating Tokens, modernized version of anonymous surveys. Their purpose 
 ChristyAna Viva, Architect & Designer
 https://github.com/captainahab0x
 
-Arjan Van Eersal, Full Stack Developer & Blockchain Developer
+Arjan Van Eersal, Fullstack Developer & Blockchain Developer
 https://github.com/arjanvaneersel
 
-Yash Goyal, Blockchain Developer & Machine Learning Engineer
-https://github.com/yashgo0018
-
-David K., Full Stack Developer & ZK Researcher
+David K., Fullstack Developer & ZK Researcher
 https://github.com/kaola526
+
+David Zarzecki, Fullstack Developer 
+https://github.com/JustAnotherDevv
 
